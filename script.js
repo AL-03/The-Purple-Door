@@ -69,7 +69,7 @@ function showTextNode(textNodeIndex) {
             hideButtons(false);
             justifyButtons();
         }
-    }, 1);
+    }, 20);
 }
 
 // Display content based on selected option
